@@ -5,6 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Options;
 
 public class Program
 {
@@ -54,6 +55,16 @@ public class Program
                     }
                 }
             }
+            using (var transactionContext = new CompanyContext(optionsBuilder.Options))
+            {
+
+                var task = transactionContext.Employes.AsNoTracking().ToList();
+
+            }
         }
+
+
+
+
     }
 }

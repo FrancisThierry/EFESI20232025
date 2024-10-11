@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppEFTransaction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1797af20e10a6c897fe3437b9e462dd67cb5c555")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppEFTransaction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppEFTransaction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

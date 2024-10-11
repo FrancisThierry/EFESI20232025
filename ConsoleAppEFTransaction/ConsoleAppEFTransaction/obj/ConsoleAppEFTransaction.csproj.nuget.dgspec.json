@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projets\\Mewo\\ESI2023-2025\\repo\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj": {}
+    "C:\\projets\\Mewo\\ESI2023-2025\\repo\\EFESI20232025\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj": {}
   },
   "projects": {
-    "C:\\projets\\Mewo\\ESI2023-2025\\repo\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj": {
+    "C:\\projets\\Mewo\\ESI2023-2025\\repo\\EFESI20232025\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj",
+        "projectUniqueName": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\EFESI20232025\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj",
         "projectName": "ConsoleAppEFTransaction",
-        "projectPath": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj",
+        "projectPath": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\EFESI20232025\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj",
         "packagesPath": "C:\\Users\\thier\\.nuget\\packages\\",
-        "outputPath": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\obj\\",
+        "outputPath": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\EFESI20232025\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -56,6 +56,10 @@
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
               "target": "Package",
               "version": "[8.0.10, )"
             },

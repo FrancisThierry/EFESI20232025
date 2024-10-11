@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConsoleAppEFTransaction
-build_property.ProjectDir = C:\projets\Mewo\ESI2023-2025\repo\ConsoleAppEFTransaction\ConsoleAppEFTransaction\
+build_property.ProjectDir = C:\projets\Mewo\ESI2023-2025\repo\EFESI20232025\ConsoleAppEFTransaction\ConsoleAppEFTransaction\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

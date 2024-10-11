@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\EFESI20232025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4809081-82BF-4D31-B7D9-D69C9CE0DD7C}|..\\TDOptimisation\\TDPerformance.csproj|c:\\projets\\mewo\\esi2023-2025\\repo\\tdoptimisation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4809081-82BF-4D31-B7D9-D69C9CE0DD7C}|..\\TDOptimisation\\TDPerformance.csproj|c:\\projets\\mewo\\esi2023-2025\\repo\\tdoptimisation\\models\\onetomanycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\TDOptimisation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TDOptimisation\\Program.cs",
+              "ToolTip": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\TDOptimisation\\Program.cs",
+              "RelativeToolTip": "..\\TDOptimisation\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:49:02.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OneToManyContext.cs",
+              "DocumentMoniker": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\TDOptimisation\\Models\\OneToManyContext.cs",
+              "RelativeDocumentMoniker": "..\\TDOptimisation\\Models\\OneToManyContext.cs",
+              "ToolTip": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\TDOptimisation\\Models\\OneToManyContext.cs",
+              "RelativeToolTip": "..\\TDOptimisation\\Models\\OneToManyContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwBsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:47:48.906Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

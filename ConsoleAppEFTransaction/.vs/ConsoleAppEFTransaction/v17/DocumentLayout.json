@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\ConsoleAppEFTransaction\\",
+  "WorkspaceRootPath": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\EFESI20232025\\ConsoleAppEFTransaction\\",
   "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75D913C4-7481-4E90-B664-2DD65B822348}|ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj|c:\\projets\\mewo\\esi2023-2025\\repo\\efesi20232025\\consoleappeftransaction\\consoleappeftransaction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D913C4-7481-4E90-B664-2DD65B822348}|ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj|solutionrelative:consoleappeftransaction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D913C4-7481-4E90-B664-2DD65B822348}|ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj|c:\\projets\\mewo\\esi2023-2025\\repo\\efesi20232025\\consoleappeftransaction\\consoleappeftransaction\\consoleappeftransaction.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{75D913C4-7481-4E90-B664-2DD65B822348}|ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj|solutionrelative:consoleappeftransaction\\consoleappeftransaction.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D913C4-7481-4E90-B664-2DD65B822348}|ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj|c:\\projets\\mewo\\esi2023-2025\\repo\\efesi20232025\\consoleappeftransaction\\consoleappeftransaction\\modele\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D913C4-7481-4E90-B664-2DD65B822348}|ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj|solutionrelative:consoleappeftransaction\\modele\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/C__DATA_DATABASEDBF.MDF/True/SqlTable/dbo.Employes.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75D913C4-7481-4E90-B664-2DD65B822348}|ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj|c:\\projets\\mewo\\esi2023-2025\\repo\\consoleappeftransaction\\consoleappeftransaction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75D913C4-7481-4E90-B664-2DD65B822348}|ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj|solutionrelative:consoleappeftransaction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75D913C4-7481-4E90-B664-2DD65B822348}|ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj|c:\\projets\\mewo\\esi2023-2025\\repo\\consoleappeftransaction\\consoleappeftransaction\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{75D913C4-7481-4E90-B664-2DD65B822348}|ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj|c:\\projets\\mewo\\esi2023-2025\\repo\\efesi20232025\\consoleappeftransaction\\consoleappeftransaction\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{75D913C4-7481-4E90-B664-2DD65B822348}|ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj|solutionrelative:consoleappeftransaction\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75D913C4-7481-4E90-B664-2DD65B822348}|ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj|c:\\projets\\mewo\\esi2023-2025\\repo\\consoleappeftransaction\\consoleappeftransaction\\modele\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75D913C4-7481-4E90-B664-2DD65B822348}|ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj|solutionrelative:consoleappeftransaction\\modele\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75D913C4-7481-4E90-B664-2DD65B822348}|ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj|c:\\projets\\mewo\\esi2023-2025\\repo\\consoleappeftransaction\\consoleappeftransaction\\modele\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75D913C4-7481-4E90-B664-2DD65B822348}|ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj|c:\\projets\\mewo\\esi2023-2025\\repo\\efesi20232025\\consoleappeftransaction\\consoleappeftransaction\\modele\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75D913C4-7481-4E90-B664-2DD65B822348}|ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj|solutionrelative:consoleappeftransaction\\modele\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75D913C4-7481-4E90-B664-2DD65B822348}|ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj|c:\\projets\\mewo\\esi2023-2025\\repo\\consoleappeftransaction\\consoleappeftransaction\\modele\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75D913C4-7481-4E90-B664-2DD65B822348}|ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj|c:\\projets\\mewo\\esi2023-2025\\repo\\efesi20232025\\consoleappeftransaction\\consoleappeftransaction\\modele\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75D913C4-7481-4E90-B664-2DD65B822348}|ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj|solutionrelative:consoleappeftransaction\\modele\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75D913C4-7481-4E90-B664-2DD65B822348}|ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj|c:\\projets\\mewo\\esi2023-2025\\repo\\consoleappeftransaction\\consoleappeftransaction\\consoleappeftransaction.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{75D913C4-7481-4E90-B664-2DD65B822348}|ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj|solutionrelative:consoleappeftransaction\\consoleappeftransaction.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,51 +37,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "dbo.Employes [Donn\u00E9es]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/C__DATA_DATABASEDBF.MDF/True/SqlTable/dbo.Employes.sql",
-              "ToolTip": "dbo.Employes [Donn\u00E9es]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-10T14:42:49.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CompanyContext.cs",
-              "DocumentMoniker": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\Modele\\CompanyContext.cs",
+              "DocumentMoniker": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\EFESI20232025\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\Modele\\CompanyContext.cs",
               "RelativeDocumentMoniker": "ConsoleAppEFTransaction\\Modele\\CompanyContext.cs",
-              "ToolTip": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\Modele\\CompanyContext.cs",
+              "ToolTip": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\EFESI20232025\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\Modele\\CompanyContext.cs",
               "RelativeToolTip": "ConsoleAppEFTransaction\\Modele\\CompanyContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA2wA4AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwA4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T14:10:49.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserTask.cs",
-              "DocumentMoniker": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\Modele\\UserTask.cs",
-              "RelativeDocumentMoniker": "ConsoleAppEFTransaction\\Modele\\UserTask.cs",
-              "ToolTip": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\Modele\\UserTask.cs",
-              "RelativeToolTip": "ConsoleAppEFTransaction\\Modele\\UserTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAcAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\EFESI20232025\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppEFTransaction\\Program.cs",
+              "ToolTip": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\EFESI20232025\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\Program.cs",
+              "RelativeToolTip": "ConsoleAppEFTransaction\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwCkAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T13:25:25.69Z",
+              "WhenOpened": "2024-10-10T13:19:25.699Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Employe.cs",
-              "DocumentMoniker": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\Modele\\Employe.cs",
+              "DocumentMoniker": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\EFESI20232025\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\Modele\\Employe.cs",
               "RelativeDocumentMoniker": "ConsoleAppEFTransaction\\Modele\\Employe.cs",
-              "ToolTip": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\Modele\\Employe.cs",
+              "ToolTip": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\EFESI20232025\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\Modele\\Employe.cs",
               "RelativeToolTip": "ConsoleAppEFTransaction\\Modele\\Employe.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAwwAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -90,24 +84,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleAppEFTransaction\\Program.cs",
-              "ToolTip": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\Program.cs",
-              "RelativeToolTip": "ConsoleAppEFTransaction\\Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAQwAgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T13:19:25.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\appsettings.json",
+              "DocumentMoniker": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\EFESI20232025\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\appsettings.json",
               "RelativeDocumentMoniker": "ConsoleAppEFTransaction\\appsettings.json",
-              "ToolTip": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\appsettings.json",
+              "ToolTip": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\EFESI20232025\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\appsettings.json",
               "RelativeToolTip": "ConsoleAppEFTransaction\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -116,19 +97,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "ConsoleAppEFTransaction",
-              "DocumentMoniker": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj",
+              "DocumentMoniker": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\EFESI20232025\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj",
               "RelativeDocumentMoniker": "ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj",
-              "ToolTip": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj",
+              "ToolTip": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\EFESI20232025\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj",
               "RelativeToolTip": "ConsoleAppEFTransaction\\ConsoleAppEFTransaction.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-10-10T14:08:28.792Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Employes.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/C__DATA_DATABASEDBF.MDF/True/SqlTable/dbo.Employes.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/C__DATA_DATABASEDBF.MDF/True/SqlTable/dbo.Employes.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-10T14:42:49.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserTask.cs",
+              "DocumentMoniker": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\EFESI20232025\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\Modele\\UserTask.cs",
+              "RelativeDocumentMoniker": "ConsoleAppEFTransaction\\Modele\\UserTask.cs",
+              "ToolTip": "C:\\projets\\Mewo\\ESI2023-2025\\repo\\EFESI20232025\\ConsoleAppEFTransaction\\ConsoleAppEFTransaction\\Modele\\UserTask.cs",
+              "RelativeToolTip": "ConsoleAppEFTransaction\\Modele\\UserTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:25:25.69Z",
+              "EditorCaption": ""
             }
           ]
         }
